@@ -1,8 +1,12 @@
 <!DOCTYPE HTML>
-
+<!--
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
 <html>
 	<head>
-		<title>Christopher Heggerud (PhD)</title>
+		<title>Christopher Heggerud</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 
@@ -28,7 +32,7 @@
 						<div class="content">
 							<div class="inner">
 								<h1>Christopher Heggerud</h1>
-								<p> Postdoctoral Reasearcher at the University of California, Davis <br />
+								<p> Ph.D candidate in Applied Mathematics (Mathematical Ecology) at the University of Alberta <br />
 								</p>
 							</div>
 						</div>
@@ -61,25 +65,15 @@
 
 	<article id="Teaching">
 								<h2 class="major">Teaching</h2>
-<h2 class="minor">Instructor Experience </h2>
-<h3 class="major">University of California, Davis </h2>
-<h4 class="minor"> MAT 21A - Differential Calculus </h3>
-<p> Fall 2022 ( Sampple syllabus <a href="syllabus.pdf" target="blank"> here</a>)</p>
-
-
-<h2 class="minor">TA Experience </h2>
-<h3 class="major">University of Alberta </h2>
-<h4 class="minor"> <a href='#MATH201'>MATH 201 - Differential Equations</a></h3>
+<h2 class="minor">Previous Courses</h2>
+<h3 class="minor"> <a href='#MATH201'>MATH 201 - Differential Equations</a></h3>
 <p> Winter 2020, Fall 2019, Winter 2017, Fall/Winter 2016, Fall 2015.</p>
 
 
-<h4 class="minor"> MATH 100 - Calculus I</h3>
+<h3 class="minor"> MATH 100 - Calculus I</h3>
 <p> Fall 2018</p>
-<h4 class="minor"> MATH 102 - Applied Linear Algebra </h3>
+<h3 class="minor"> MATH 102 - Applied Linear Algebra </h3>
 <p> Winter 2019</p>
-<h3 class="major">Toronto Metropolitan University </h2>
-<h4 class="minor"> MATH 131 - Modern Mathematics </h4>
-<p> Fall 2014, Winter 2015</p>
 
 <h2 class="minor">Guest Lectures</h2>
 
@@ -200,7 +194,9 @@ SIAM Journal on Applied Mathematics (Accepted for Publication) (2020)</li>
 						<!-- Work -->
 							<article id="Publications">
 								<h2 class="major">Publications</h2>
-<!--
+
+								
+
 <ul>
 										<li><b>C. M.  Heggerud</b>, C. M., Wang, H. & Lewis, M. A. 
 
@@ -239,36 +235,28 @@ Baysian network approach to understanding and predicting cyanobacteria blooms.</
 In preparation.</li>
 
 										
-									</ul>-->
-<p> A link to my <a href="https://scholar.google.ca/citations?user=TQGyIMAAAAAJ&hl=en&oi=sra">Google Scholar page.</a> If you cannot access any of these papers on your own please do not hesistate to request one directly from me.
-</p>
+									</ul>
 
-<embed src="publist.pdf" type="application/pdf" width="100%" height="600" />
-
-<p> Click <a href="publist.pdf" target="blank"> here</a> if you can not view the PDF.
+<p> A link to my <a href="https://scholar.google.ca/citations?user=TQGyIMAAAAAJ&hl=en&oi=sra">Google Scholar page.</a> 
 </p>
 							</article>
 
 						<!-- About -->
 							<article id="CV">
 								<h2 class="major">CV</h2>
-<p> Click <a href="CVjan23.pdf" target="blank"> here</a> if you can not view the PDF.  </p>
+<p> Click <a href="CV.pdf" target="blank"> here</a> if you can not view the PDF.  </p>
 
-<embed src="CVjan23.pdf" type="application/pdf" width="100%" height="650" />
+<embed src="CV.pdf" type="application/pdf" width="100%" height="1000" />
 
 
 							</article>
 
 						<!-- Contact -->
 							<article id="AboutMe">
-								<h1 class="minor">About Me</h1>
-<h2 class="major">Professional Life</h2>
-<p>I am currently a postdoctoral reasearcher at the University of California, Davis under the supervision of Alan Hastings in the Department of Environmental Science and Policy. My research is mathematical in nature but has real applications in general ecology. I am currently on the job market.
-After completing my undergraduate degree at Toronto Metropolitan University, I moved back to Alberta to receive my PhD in applied mathematics (Mathematical Ecology) at the University of Alberta under the supervision of Mark Lewis and Hao Wang. Please reach out if you would like to know more about me and my research. 
-</p>
-<h2 class="major">Personal Life</h2>
-<p>I am an outdoor enthusiast born and raised on a farm south of Edmonton, Alberta, Canada. I've always enjoyed the outdoors, and am passionate about nature. My main adventures include down hill skiing, ski touring, sport climbing, hiking and mountain biking as well a general enjoyment of the outdoors with my wife and kids. I currently live in Davis, California.  
-</p>								
+								<h2 class="major">About Me</h2>
+I am an outdoor enthusiast born and raised on a farm south of Edmonton, Alberta. I've always enjoyed the outdoors, and am passionate about nature. My main adventures include down hill skiing, ski touring, sport climbing, hiking and backpacking. After completing my undergraduate degree at Ryerson University, my (now) wife and I moved back to Alberta so that I could pursue a PhD in applied mathematics at the University of Alberta under the supervision of Mark Lewis and Hao Wang. Please reach out if you would like to know more about me and my research. 
+<h2 class="major">           </h2>
+								
 								<ul class="icons">
 									
 									<li><a href="https://www.instagram.com/chrisheggerud/?hl=en" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
@@ -284,18 +272,18 @@ After completing my undergraduate degree at Toronto Metropolitan University, I m
 		<h2 class="major">Contact Me</h2>
 <p>
 
-<b>Email:</b> cmheggerud[at]gmail[dot]ca or cmheggerud[at]ucdavis[dot]edu <br/>
+<b>Email:</b> cheggeru[at]ualberta[dot]ca <br/>
 
-<b>Title:</b> Postdoctoral Researcher<br/>
-<b>Affiliations:</b> Alan Hastings lab, Center for Populaition Biology, Department of Environmental Science and Policy, and Department of Mathematics<br/>
+<b>Title:</b> Ph.D. Candidate Lewis Research Group and Hao Wang Research Group <br/>
 
-<b>Office:</b> Wickson Hall 3059, Department of Environmental Science and Policy, University of California, Davis. <br/>
+<b>Office:</b> CCIS 1-092, Department of Mathematical and Statistical Sciences, University of Alberta ᐊᒥᐢᑿᒌᐚᐢᑲᐦᐃᑲᐣ / Amiskwacîwâskahikan / Edmonton, Treaty 6 territory <br/>
 
-I am a guest on the traditional, unceded land of the Patwin people.
-
-
-
-
+<b>Mail:</b> 
+Christopher M. Heggerud <br/>
+CAB 632 <br/>
+University of Alberta <br>
+Edmonton, Alberta <br/>
+Canada T6G 2G1 <br/>
 
 		</p>						
 								<ul class="icons">
@@ -556,12 +544,6 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 
 				<!-- Footer -->
 					<footer id="footer">
-<div class="content">
-							<div class="inner">
-								<p> Currently on the academic job market <br />
-								</p>
-							</div>
-						</div>
 						<p class="copyright"> Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
 					</footer>
 
