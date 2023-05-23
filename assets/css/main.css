@@ -1339,12 +1339,19 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 5.5rem;
-			height: 5.5rem;
-			line-height: 5.5rem;
+			width: 7.5rem;
+			height: 7.5rem;
+			line-height: 7.5rem;
 			border: solid 1px #ffffff;
-			border-radius: 100%;
+			border-radius: 50%;
 		}
+
+img.rounded {
+  object-fit: cover;
+  border-radius: 50%;
+  height: 7.5rem;
+  width: 7.5rem;
+}
 
 			#header .logo .icon:before {
 				font-size: 2rem;
