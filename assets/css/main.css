@@ -1345,8 +1345,8 @@ input, select, textarea {
 			line-height: 7.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 50%;
-			width: 9rem;
-			height: 9rem;
+			width: 10rem;
+			height: 10rem;
 
 overflow:hidden;
 
@@ -1609,7 +1609,7 @@ object-position: -10px 0;
 			transition: opacity 0.325s ease-in-out, transform 0.325s ease-in-out;
 			padding: 4.5rem 2.5rem 1.5rem 2.5rem ;
 			position: relative;
-			width: 50rem;
+			width: 51rem;
 			max-width: 100%;
 			background-color: rgba(27, 31, 34, 0.85);
 			border-radius: 4px;
