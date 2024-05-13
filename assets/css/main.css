@@ -1346,7 +1346,7 @@ input, select, textarea {
 		#header .logo {
 		
 			line-height: 7.5rem;
-			border: solid 10px #ffffff;
+			border: solid 1px #ffffff;
 			border-radius: 50%;
 			width: 10rem;
 			height: 10rem;
